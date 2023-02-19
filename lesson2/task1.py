@@ -15,4 +15,6 @@ def Factorial(n):
             sum = sum * (i + 1)
             i += 1
     return sum
+
+
 print(Factorial(5))
